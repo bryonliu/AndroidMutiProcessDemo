@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Android 多线程 DEMO</string>
+    <string name="jump2SecondProcess">跳转到第二个进程</string>
+    <string name="blindMyservice">绑定同一进程的服务</string>
+    <string name="jump2MessengerServiceActicity">跳转到MessengerServiceActivity</string>
+    <string name="bindService">通信</string>
+    <string name="jump2AIDLActivity">跳转到AIDLActivity</string>
+    <string name="blindService">绑定服务</string>
+</resources>
